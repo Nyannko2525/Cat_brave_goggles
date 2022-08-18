@@ -1,5 +1,5 @@
 ! name: Cat Rof.3w
-! description:Do up search lank opinions for individual on Blogs , SNS and so on.Do up search lank more  than Blogs , SNS and so on site to "Wikimedia Foundation Inc."  to if user wants to know information to credibility quickly.
+! description:Do up search lank opinions for individual on Blogs , SNS and so on.Do up search lank more  than Blogs , SNS and so on site to "Wikimedia Foundation Inc."  to if user wants to know information to credibility quickly.please input many search words!
 ! public: true
 ! author: Nyannko2525
 
