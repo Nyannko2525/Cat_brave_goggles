@@ -18,7 +18,6 @@ $boost=3,site=BusyThumbs.com
 $boost=3,site=Freevlog.org
 $boost=3,site=Trippert.com
 $boost=3,site=Ufem.com
-$boost=3,site=Word Count Journal.com
 $boost=3,site=Xanco.com
 $boost=3,site=Blogetery.com
 $boost=3,site=BlogRox.com
@@ -26,7 +25,6 @@ $boost=3,site=Blogsome.com
 $boost=3,site=Edublogs.com
 $boost=3,site=WordPress.com
 $boost=3,site=Blog.com
-$boost=3,site=Blog Ladder.com
 $boost=3,site=Blogger.com
 $boost=3,site=Blogr.com
 $boost=3,site=BlogSpirit.com
@@ -38,7 +36,7 @@ $boost=3,site=ClearBlogs.com
 $boost=3,site=Etribes.com
 $boost=3,site=Multiply.com
 $boost=3,site=Netcipia.com
-$boost=3,site=Open Diary.com
+$boost=3,site=Opendiary.com
 $boost=3,site=ShoutPost.com
 $boost=3,site=SoulCast.com
 $boost=3,site=Squarespace.com
