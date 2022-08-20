@@ -1,9 +1,9 @@
 ! name: Cat Quality
-! description:質の低いまとめサイトなどをなるべく上位に上がらないようにする。BlogやSNSなどのサイトやWikipedia関連のサイトなどを上位にする。日本系のサイトにも対応。
-BlogやSNSなどの個人の意見を検索ランク上位にする。すぐに信憑性のある情報を知りたい時のために、Wikioedia系のサイトを検索ランク最上位にする。
+! description:質の低いまとめサイトなどをなるべく上位に上がらないようにする。BlogやSNSなどのサイトやWikipedia関連のサイトなどを上位になるようににする。日本語系のサイトにも対応!
 ! public: true
 ! author: Nyannko2525
 
+!  URL=https://github.com/Nyannko2525/Cat_brave_goggles/edit/main/Cat_Quality.txt
 
 !  Blog service
 !  Source : "https://mashable.com/archive/free-blog-hosts"
@@ -81,6 +81,7 @@ $boost=3,site=twitter.com
 $boost=3,site=youtube.com
 $boost=3,site=github.com
 $boost=3,site=www.clearnotebooks.com
+$boost=3,site=5ch.net
 
 
 !  Q&A
