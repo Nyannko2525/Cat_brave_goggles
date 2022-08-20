@@ -1,6 +1,5 @@
 ! name: Cat Quality
-! description:BlogやSNSなどの個人の意見を検索ランク上位にする。
-すぐに信憑性のある情報を知りたい時のために、Wikioedia系のサイトを検索ランク最上位にする。
+! description:BlogやSNSなどの個人の意見を検索ランク上位にする。すぐに信憑性のある情報を知りたい時のために、Wikioedia系のサイトを検索ランク最上位にする。
 ! public: true
 ! author: Nyannko2525
 
