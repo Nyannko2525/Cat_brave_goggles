@@ -1,20 +1,4 @@
 ! name: Cat Rof.3w
-! description:BlogやSNSなどの個人の意見を検索ランク上位にする。
-
+! description:No file
 ! public: false
 ! author: Nyannko2525
-
-
-!  Blog service
-!  Source : "https://mashable.com/archive/free-blog-hosts"
-
-$boost=3,site=greatestjournal.com
-$boost=3,site=InsaneJournal.com
-$boost=3,site=JorunalFen.net
-$boost=3,site=LiveJournal.com
-$boost=3,site=Blogabond.com
-$boost=3,site=BlogCheese.com
-$boost=3,site=BusyThumbs.com
-$boost=3,site=Freevlog.org
-$boost=3,site=Trippert.com
-$boost=3,site=Ufem.com
